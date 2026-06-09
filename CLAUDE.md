@@ -8,7 +8,7 @@ This repo is part of a portfolio shared between Sushanth (`t.sushanth@gmail.com`
 
 | Fly app | Location in repo |
 |---------|------------------|
-
+| `paywall-optimizer` | (repo root) |
 
 Authoritative deploy steps (run from inside the Fly app's subdir, where the `fly.toml` lives):
 
